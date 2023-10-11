@@ -1,0 +1,5 @@
+# Ignorar la carpeta venv (entorno virtual de Python)
+venv/
+
+# Ignorar el archivo config.py
+config.py
